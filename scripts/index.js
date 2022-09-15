@@ -1622,8 +1622,8 @@ let numTrials;
 
 
 let currentTrialIndex = -1;
-const pageDelay = 4000;
-const trialDelay = 650;
+const pageDelay = 5200;
+const trialDelay = 1100;
 let startTime;
 let results;
 
