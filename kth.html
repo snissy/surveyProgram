@@ -77,34 +77,38 @@
     <div id="trialPage" class="page">
         <h2 id="trialNumber">Trial x</h2>
         <p>Of the two images below, which one is more <span class="highlightedText">realistic</span> to you?</p>
-        <div id="leftImageContainer">
-            <table>
-                <tr>
-                    <td>
-                        <img id="leftImage">
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <button class="realismButton" onclick="realismSubmit(this.innerHTML)">Left</button>
-                    </td>
-                </tr>
-            </table>
+
+        <div id="LeftAndRightContainer">
+            <div id="leftImageContainer">
+                <table>
+                    <tr>
+                        <td>
+                            <img id="leftImage">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <button class="realismButton" onclick="realismSubmit(this.innerHTML)">Left</button>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div id="rightImageContainer">
+                <table>
+                    <tr>
+                        <td>
+                            <img id="rightImage">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <button class="realismButton" onclick="realismSubmit(this.innerHTML)">Right</button>
+                        </td>
+                    </tr>
+                </table>
+            </div>
         </div>
-        <div id="rightImageContainer">
-            <table>
-                <tr>
-                    <td>
-                        <img id="rightImage">
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <button class="realismButton" onclick="realismSubmit(this.innerHTML)">Right</button>
-                    </td>
-                </tr>
-            </table>
-        </div>
+
     </div>
 
     <div id="demographicsPage" class="page">

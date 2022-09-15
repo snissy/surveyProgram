@@ -85,17 +85,24 @@ h1 {
 }
 
 #trialPage img {
-    width: 800px;
+    width: 100%
+}
+
+div#LeftAndRightContainer {
+    display: flex;
+    justify-content: space-between;
 }
 
 #leftImageContainer {
     left: 1em;
     position: fixed;
+    width: 49%;
 }
 
 #rightImageContainer {
     right: 1em;
     position: fixed;
+    width: 49%;
 }
 
 #appealQuestion {
