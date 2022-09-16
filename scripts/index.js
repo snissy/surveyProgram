@@ -1,1616 +1,1612 @@
 const allTrialSets = {
     "0": [
         [
-            "sym_0-alg_0.5-cle_2.5",
-            "sym_0-alg_2.5-cle_2.5"
+            "sym_0-alg_4-cle_0.75",
+            "sym_4-alg_4-cle_0.75"
+        ],
+        [
+            "sym_1-alg_1-cle_0.75",
+            "sym_1-alg_1-cle_4"
+        ],
+        [
+            "sym_0-alg_4-cle_0.75",
+            "sym_0-alg_4-cle_1"
+        ],
+        [
+            "sym_0.75-alg_0.25-cle_0.25",
+            "sym_0.75-alg_0.25-cle_4"
+        ],
+        [
+            "sym_0.25-alg_0.25-cle_1",
+            "sym_1-alg_0.25-cle_1"
+        ],
+        [
+            "sym_0-alg_0.25-cle_4",
+            "sym_0-alg_0.75-cle_4"
+        ],
+        [
+            "sym_0.75-alg_1-cle_0.75",
+            "sym_0.75-alg_1-cle_4"
+        ],
+        [
+            "sym_0-alg_1-cle_0.75",
+            "sym_0-alg_1-cle_4"
+        ],
+        [
+            "sym_0-alg_0.75-cle_0.75",
+            "sym_4-alg_0.75-cle_0.75"
+        ],
+        [
+            "sym_0.25-alg_1-cle_1",
+            "sym_0.25-alg_4-cle_1"
+        ],
+        [
+            "sym_0.75-alg_0.25-cle_4",
+            "sym_1-alg_0.25-cle_4"
+        ],
+        [
+            "sym_0-alg_0.25-cle_4",
+            "sym_0-alg_4-cle_4"
+        ],
+        [
+            "sym_0.75-alg_1-cle_0.25",
+            "sym_0.75-alg_1-cle_1"
+        ],
+        [
+            "sym_0.75-alg_0.75-cle_0.75",
+            "sym_0.75-alg_4-cle_0.75"
+        ],
+        [
+            "sym_0-alg_4-cle_4",
+            "sym_4-alg_4-cle_4"
+        ],
+        [
+            "sym_4-alg_0.75-cle_0.75",
+            "sym_4-alg_0.75-cle_4"
+        ],
+        [
+            "sym_0-alg_4-cle_0.25",
+            "sym_4-alg_4-cle_0.25"
+        ],
+        [
+            "sym_0.25-alg_4-cle_0.75",
+            "sym_1-alg_4-cle_0.75"
+        ],
+        [
+            "sym_1-alg_0.75-cle_0.75",
+            "sym_1-alg_1-cle_0.75"
+        ],
+        [
+            "sym_0-alg_4-cle_0.25",
+            "sym_0.25-alg_4-cle_0.25"
+        ],
+        [
+            "sym_1-alg_0.25-cle_0.25",
+            "sym_1-alg_1-cle_0.25"
+        ],
+        [
+            "sym_0.75-alg_1-cle_0.25",
+            "sym_0.75-alg_4-cle_0.25"
+        ],
+        [
+            "sym_0.25-alg_4-cle_4",
+            "sym_0.75-alg_4-cle_4"
+        ],
+        [
+            "sym_0.25-alg_1-cle_0.25",
+            "sym_0.25-alg_1-cle_0.75"
+        ],
+        [
+            "sym_0.75-alg_0.25-cle_4",
+            "sym_0.75-alg_1-cle_4"
         ],
         [
             "sym_0-alg_1-cle_1",
-            "sym_0-alg_2.5-cle_1"
+            "sym_0.75-alg_1-cle_1"
         ],
         [
-            "sym_0-alg_1-cle_1",
-            "sym_0-alg_1-cle_2.5"
+            "sym_0.25-alg_0.75-cle_0.75",
+            "sym_0.25-alg_0.75-cle_4"
         ],
         [
-            "sym_0-alg_2.5-cle_5",
-            "sym_1.4-alg_2.5-cle_5"
+            "sym_4-alg_0.25-cle_0.75",
+            "sym_4-alg_0.75-cle_0.75"
         ],
         [
-            "sym_0.8-alg_2.5-cle_0.5",
-            "sym_0.8-alg_2.5-cle_2.5"
+            "sym_0.75-alg_0.25-cle_0.25",
+            "sym_1-alg_0.25-cle_0.25"
         ],
         [
-            "sym_0.2-alg_5-cle_1",
-            "sym_0.8-alg_5-cle_1"
+            "sym_1-alg_0.25-cle_0.25",
+            "sym_1-alg_0.25-cle_4"
         ],
         [
-            "sym_1.4-alg_1-cle_1",
-            "sym_2-alg_1-cle_1"
+            "sym_0-alg_4-cle_1",
+            "sym_0.75-alg_4-cle_1"
         ],
         [
-            "sym_0-alg_0.5-cle_1",
+            "sym_1-alg_0.25-cle_1",
+            "sym_1-alg_1-cle_1"
+        ],
+        [
+            "sym_1-alg_1-cle_0.25",
+            "sym_1-alg_1-cle_1"
+        ],
+        [
+            "sym_0-alg_0.25-cle_0.25",
+            "sym_0-alg_0.25-cle_4"
+        ],
+        [
+            "sym_4-alg_4-cle_0.25",
+            "sym_4-alg_4-cle_1"
+        ],
+        [
+            "sym_0.25-alg_1-cle_0.25",
+            "sym_1-alg_1-cle_0.25"
+        ],
+        [
+            "sym_0-alg_0.75-cle_0.25",
+            "sym_4-alg_0.75-cle_0.25"
+        ],
+        [
+            "sym_0.75-alg_0.25-cle_0.75",
+            "sym_0.75-alg_0.25-cle_4"
+        ],
+        [
+            "sym_0-alg_0.25-cle_1",
             "sym_0-alg_1-cle_1"
         ],
         [
-            "sym_0-alg_0.5-cle_5",
-            "sym_0.8-alg_0.5-cle_5"
+            "sym_0.25-alg_1-cle_0.75",
+            "sym_4-alg_1-cle_0.75"
         ],
         [
-            "sym_1.4-alg_0.5-cle_5",
-            "sym_1.4-alg_5-cle_5"
+            "sym_0.25-alg_0.75-cle_0.25",
+            "sym_0.25-alg_0.75-cle_0.75"
         ],
         [
-            "sym_2-alg_1-cle_5",
-            "sym_2-alg_2.5-cle_5"
+            "sym_1-alg_0.25-cle_1",
+            "sym_4-alg_0.25-cle_1"
         ],
         [
-            "sym_0-alg_2.5-cle_2.5",
-            "sym_0.8-alg_2.5-cle_2.5"
+            "sym_0.75-alg_4-cle_4",
+            "sym_4-alg_4-cle_4"
         ],
         [
-            "sym_0.8-alg_5-cle_2.5",
-            "sym_2-alg_5-cle_2.5"
+            "sym_0-alg_4-cle_0.25",
+            "sym_0-alg_4-cle_4"
         ],
         [
-            "sym_0-alg_1-cle_2.5",
-            "sym_1.4-alg_1-cle_2.5"
+            "sym_0.25-alg_0.25-cle_0.75",
+            "sym_4-alg_0.25-cle_0.75"
         ],
         [
-            "sym_1.4-alg_1-cle_0.5",
-            "sym_1.4-alg_1-cle_5"
+            "sym_0-alg_0.25-cle_4",
+            "sym_0.25-alg_0.25-cle_4"
         ],
         [
-            "sym_0-alg_5-cle_0.5",
-            "sym_0.2-alg_5-cle_0.5"
+            "sym_0.25-alg_0.25-cle_1",
+            "sym_0.25-alg_4-cle_1"
         ],
         [
-            "sym_2-alg_0.5-cle_0.5",
-            "sym_2-alg_0.5-cle_1"
+            "sym_0.25-alg_0.25-cle_4",
+            "sym_1-alg_0.25-cle_4"
         ],
         [
-            "sym_0.2-alg_2.5-cle_1",
-            "sym_0.8-alg_2.5-cle_1"
+            "sym_0.25-alg_1-cle_1",
+            "sym_4-alg_1-cle_1"
         ],
         [
-            "sym_0.2-alg_2.5-cle_2.5",
-            "sym_2-alg_2.5-cle_2.5"
+            "sym_0-alg_4-cle_0.75",
+            "sym_0-alg_4-cle_4"
         ],
         [
-            "sym_1.4-alg_1-cle_1",
-            "sym_1.4-alg_5-cle_1"
+            "sym_0-alg_1-cle_0.75",
+            "sym_4-alg_1-cle_0.75"
         ],
         [
-            "sym_0-alg_0.5-cle_0.5",
-            "sym_0-alg_0.5-cle_5"
+            "sym_0.75-alg_0.25-cle_1",
+            "sym_0.75-alg_1-cle_1"
         ],
         [
-            "sym_0-alg_2.5-cle_2.5",
-            "sym_0-alg_5-cle_2.5"
+            "sym_1-alg_0.75-cle_0.75",
+            "sym_1-alg_0.75-cle_1"
         ],
         [
-            "sym_0-alg_1-cle_0.5",
-            "sym_0-alg_1-cle_1"
+            "sym_0-alg_0.75-cle_0.75",
+            "sym_1-alg_0.75-cle_0.75"
         ],
         [
-            "sym_1.4-alg_0.5-cle_1",
-            "sym_1.4-alg_0.5-cle_5"
+            "sym_0.75-alg_4-cle_0.25",
+            "sym_0.75-alg_4-cle_1"
         ],
         [
-            "sym_0.2-alg_0.5-cle_0.5",
-            "sym_1.4-alg_0.5-cle_0.5"
+            "sym_0-alg_0.25-cle_0.25",
+            "sym_0.25-alg_0.25-cle_0.25"
         ],
         [
-            "sym_0-alg_2.5-cle_0.5",
-            "sym_0.2-alg_2.5-cle_0.5"
+            "sym_4-alg_0.25-cle_0.75",
+            "sym_4-alg_0.25-cle_1"
         ],
         [
-            "sym_0-alg_0.5-cle_0.5",
-            "sym_0-alg_2.5-cle_0.5"
+            "sym_1-alg_4-cle_0.75",
+            "sym_1-alg_4-cle_1"
         ],
         [
-            "sym_0-alg_2.5-cle_5",
-            "sym_0.8-alg_2.5-cle_5"
+            "sym_0-alg_0.75-cle_1",
+            "sym_0-alg_4-cle_1"
         ],
         [
-            "sym_0.2-alg_1-cle_5",
-            "sym_1.4-alg_1-cle_5"
+            "sym_0-alg_1-cle_0.75",
+            "sym_1-alg_1-cle_0.75"
         ],
         [
-            "sym_2-alg_1-cle_1",
-            "sym_2-alg_1-cle_5"
+            "sym_0.25-alg_1-cle_0.25",
+            "sym_4-alg_1-cle_0.25"
         ],
         [
-            "sym_2-alg_1-cle_1",
-            "sym_2-alg_2.5-cle_1"
+            "sym_1-alg_0.75-cle_0.25",
+            "sym_1-alg_0.75-cle_1"
         ],
         [
-            "sym_0.8-alg_2.5-cle_0.5",
-            "sym_1.4-alg_2.5-cle_0.5"
+            "sym_0.25-alg_0.25-cle_4",
+            "sym_4-alg_0.25-cle_4"
         ],
         [
-            "sym_0.2-alg_1-cle_5",
-            "sym_0.8-alg_1-cle_5"
+            "sym_0.25-alg_0.75-cle_0.25",
+            "sym_0.75-alg_0.75-cle_0.25"
         ],
         [
-            "sym_2-alg_1-cle_0.5",
-            "sym_2-alg_1-cle_1"
+            "sym_0.25-alg_0.75-cle_0.25",
+            "sym_0.25-alg_0.75-cle_4"
         ],
         [
-            "sym_1.4-alg_5-cle_2.5",
-            "sym_2-alg_5-cle_2.5"
+            "sym_1-alg_0.75-cle_0.25",
+            "sym_4-alg_0.75-cle_0.25"
         ],
         [
-            "sym_1.4-alg_2.5-cle_0.5",
-            "sym_1.4-alg_2.5-cle_2.5"
+            "sym_4-alg_0.25-cle_0.25",
+            "sym_4-alg_0.75-cle_0.25"
         ],
         [
-            "sym_1.4-alg_2.5-cle_0.5",
-            "sym_2-alg_2.5-cle_0.5"
+            "sym_0-alg_0.75-cle_0.75",
+            "sym_0-alg_0.75-cle_1"
         ],
         [
-            "sym_1.4-alg_1-cle_5",
-            "sym_1.4-alg_5-cle_5"
+            "sym_0.75-alg_1-cle_0.25",
+            "sym_1-alg_1-cle_0.25"
         ],
         [
-            "sym_0-alg_2.5-cle_1",
-            "sym_0-alg_5-cle_1"
+            "sym_0.25-alg_1-cle_4",
+            "sym_0.75-alg_1-cle_4"
         ],
         [
-            "sym_1.4-alg_0.5-cle_5",
-            "sym_1.4-alg_2.5-cle_5"
+            "sym_1-alg_0.75-cle_1",
+            "sym_1-alg_1-cle_1"
         ],
         [
-            "sym_0-alg_1-cle_0.5",
-            "sym_0-alg_2.5-cle_0.5"
+            "sym_0.75-alg_0.75-cle_1",
+            "sym_1-alg_0.75-cle_1"
         ],
         [
-            "sym_0.2-alg_5-cle_0.5",
-            "sym_0.2-alg_5-cle_5"
+            "sym_0.75-alg_4-cle_0.75",
+            "sym_1-alg_4-cle_0.75"
         ],
         [
-            "sym_0.8-alg_0.5-cle_2.5",
-            "sym_0.8-alg_1-cle_2.5"
+            "sym_0-alg_0.75-cle_0.75",
+            "sym_0-alg_0.75-cle_4"
         ],
         [
-            "sym_0-alg_0.5-cle_0.5",
-            "sym_0-alg_1-cle_0.5"
+            "sym_0.75-alg_4-cle_0.75",
+            "sym_0.75-alg_4-cle_1"
         ],
         [
-            "sym_0-alg_1-cle_1",
-            "sym_0.2-alg_1-cle_1"
+            "sym_0.75-alg_4-cle_4",
+            "sym_1-alg_4-cle_4"
         ],
         [
-            "sym_0.8-alg_5-cle_1",
-            "sym_0.8-alg_5-cle_2.5"
+            "sym_0.25-alg_0.75-cle_1",
+            "sym_1-alg_0.75-cle_1"
         ],
         [
-            "sym_1.4-alg_1-cle_2.5",
-            "sym_1.4-alg_2.5-cle_2.5"
+            "sym_0.25-alg_1-cle_1",
+            "sym_1-alg_1-cle_1"
         ],
         [
-            "sym_1.4-alg_5-cle_1",
-            "sym_2-alg_5-cle_1"
+            "sym_0.25-alg_0.75-cle_0.25",
+            "sym_0.25-alg_0.75-cle_1"
         ],
         [
-            "sym_0.2-alg_0.5-cle_1",
-            "sym_0.8-alg_0.5-cle_1"
-        ],
-        [
-            "sym_2-alg_2.5-cle_0.5",
-            "sym_2-alg_2.5-cle_1"
-        ],
-        [
-            "sym_2-alg_1-cle_2.5",
-            "sym_2-alg_5-cle_2.5"
-        ],
-        [
-            "sym_0-alg_0.5-cle_2.5",
-            "sym_0-alg_5-cle_2.5"
-        ],
-        [
-            "sym_0.2-alg_5-cle_0.5",
-            "sym_1.4-alg_5-cle_0.5"
-        ],
-        [
-            "sym_0.2-alg_2.5-cle_5",
-            "sym_0.8-alg_2.5-cle_5"
-        ],
-        [
-            "sym_0.8-alg_1-cle_1",
-            "sym_2-alg_1-cle_1"
-        ],
-        [
-            "sym_0.8-alg_1-cle_5",
-            "sym_2-alg_1-cle_5"
-        ],
-        [
-            "sym_1.4-alg_0.5-cle_2.5",
-            "sym_1.4-alg_2.5-cle_2.5"
-        ],
-        [
-            "sym_0-alg_1-cle_0.5",
-            "sym_1.4-alg_1-cle_0.5"
-        ],
-        [
-            "sym_0-alg_2.5-cle_1",
-            "sym_2-alg_2.5-cle_1"
-        ],
-        [
-            "sym_0-alg_1-cle_0.5",
-            "sym_0-alg_1-cle_2.5"
-        ],
-        [
-            "sym_0-alg_5-cle_0.5",
-            "sym_0-alg_5-cle_1"
-        ],
-        [
-            "sym_1.4-alg_0.5-cle_0.5",
-            "sym_1.4-alg_0.5-cle_2.5"
-        ],
-        [
-            "sym_2-alg_2.5-cle_0.5",
-            "sym_2-alg_2.5-cle_2.5"
-        ],
-        [
-            "sym_0.2-alg_0.5-cle_2.5",
-            "sym_0.2-alg_0.5-cle_5"
-        ],
-        [
-            "sym_0.2-alg_0.5-cle_2.5",
-            "sym_0.2-alg_2.5-cle_2.5"
-        ],
-        [
-            "sym_0-alg_5-cle_0.5",
-            "sym_0-alg_5-cle_2.5"
+            "sym_0.25-alg_0.75-cle_0.75",
+            "sym_0.25-alg_1-cle_0.75"
         ]
     ],
     "1": [
         [
-            "sym_0.2-alg_1-cle_5",
-            "sym_2-alg_1-cle_5"
+            "sym_0-alg_0.75-cle_0.25",
+            "sym_1-alg_0.75-cle_0.25"
         ],
         [
-            "sym_0.2-alg_2.5-cle_2.5",
-            "sym_0.2-alg_5-cle_2.5"
+            "sym_0-alg_0.75-cle_1",
+            "sym_0.25-alg_0.75-cle_1"
         ],
         [
-            "sym_0.2-alg_0.5-cle_0.5",
-            "sym_0.2-alg_0.5-cle_5"
+            "sym_0.25-alg_0.75-cle_0.75",
+            "sym_4-alg_0.75-cle_0.75"
         ],
         [
-            "sym_0.2-alg_0.5-cle_0.5",
-            "sym_0.2-alg_2.5-cle_0.5"
+            "sym_4-alg_0.25-cle_1",
+            "sym_4-alg_4-cle_1"
         ],
         [
-            "sym_0-alg_0.5-cle_2.5",
-            "sym_0.8-alg_0.5-cle_2.5"
+            "sym_4-alg_1-cle_0.75",
+            "sym_4-alg_1-cle_4"
         ],
         [
-            "sym_0-alg_0.5-cle_2.5",
-            "sym_2-alg_0.5-cle_2.5"
+            "sym_1-alg_1-cle_4",
+            "sym_4-alg_1-cle_4"
         ],
         [
-            "sym_0.2-alg_2.5-cle_0.5",
-            "sym_0.2-alg_2.5-cle_1"
+            "sym_1-alg_0.75-cle_0.25",
+            "sym_1-alg_1-cle_0.25"
         ],
         [
-            "sym_0.8-alg_0.5-cle_0.5",
-            "sym_1.4-alg_0.5-cle_0.5"
+            "sym_0.25-alg_0.25-cle_1",
+            "sym_0.25-alg_1-cle_1"
         ],
         [
-            "sym_0.8-alg_0.5-cle_1",
-            "sym_2-alg_0.5-cle_1"
+            "sym_0.75-alg_1-cle_4",
+            "sym_4-alg_1-cle_4"
         ],
         [
-            "sym_0.8-alg_1-cle_1",
-            "sym_0.8-alg_2.5-cle_1"
+            "sym_4-alg_4-cle_0.75",
+            "sym_4-alg_4-cle_1"
         ],
         [
-            "sym_0-alg_0.5-cle_5",
-            "sym_1.4-alg_0.5-cle_5"
+            "sym_0.75-alg_4-cle_1",
+            "sym_1-alg_4-cle_1"
         ],
         [
-            "sym_0-alg_1-cle_5",
-            "sym_2-alg_1-cle_5"
+            "sym_0-alg_0.25-cle_0.75",
+            "sym_0.25-alg_0.25-cle_0.75"
         ],
         [
-            "sym_0.8-alg_2.5-cle_1",
-            "sym_1.4-alg_2.5-cle_1"
+            "sym_0.75-alg_1-cle_0.25",
+            "sym_0.75-alg_1-cle_0.75"
         ],
         [
-            "sym_0-alg_2.5-cle_0.5",
-            "sym_0-alg_5-cle_0.5"
+            "sym_0-alg_0.25-cle_0.75",
+            "sym_0-alg_4-cle_0.75"
         ],
         [
-            "sym_2-alg_2.5-cle_1",
-            "sym_2-alg_2.5-cle_2.5"
+            "sym_1-alg_0.75-cle_0.75",
+            "sym_1-alg_0.75-cle_4"
         ],
         [
-            "sym_0.8-alg_5-cle_0.5",
-            "sym_0.8-alg_5-cle_2.5"
+            "sym_0.25-alg_0.75-cle_1",
+            "sym_0.25-alg_4-cle_1"
         ],
         [
-            "sym_0.8-alg_0.5-cle_1",
-            "sym_0.8-alg_0.5-cle_5"
+            "sym_0.75-alg_0.75-cle_0.75",
+            "sym_0.75-alg_0.75-cle_4"
         ],
         [
-            "sym_2-alg_0.5-cle_2.5",
-            "sym_2-alg_5-cle_2.5"
+            "sym_1-alg_1-cle_0.25",
+            "sym_1-alg_1-cle_4"
         ],
         [
-            "sym_0-alg_2.5-cle_0.5",
-            "sym_0-alg_2.5-cle_2.5"
+            "sym_1-alg_0.25-cle_1",
+            "sym_1-alg_0.75-cle_1"
         ],
         [
-            "sym_1.4-alg_0.5-cle_2.5",
-            "sym_1.4-alg_0.5-cle_5"
+            "sym_1-alg_1-cle_4",
+            "sym_1-alg_4-cle_4"
         ],
         [
-            "sym_2-alg_5-cle_0.5",
-            "sym_2-alg_5-cle_2.5"
+            "sym_0-alg_4-cle_0.75",
+            "sym_0.25-alg_4-cle_0.75"
         ],
         [
-            "sym_0.2-alg_2.5-cle_0.5",
-            "sym_1.4-alg_2.5-cle_0.5"
+            "sym_0-alg_0.25-cle_0.25",
+            "sym_0.75-alg_0.25-cle_0.25"
         ],
         [
-            "sym_0.8-alg_5-cle_1",
-            "sym_0.8-alg_5-cle_5"
+            "sym_0.25-alg_0.25-cle_0.25",
+            "sym_4-alg_0.25-cle_0.25"
         ],
         [
-            "sym_0.2-alg_0.5-cle_2.5",
-            "sym_2-alg_0.5-cle_2.5"
+            "sym_0.25-alg_0.25-cle_4",
+            "sym_0.25-alg_1-cle_4"
         ],
         [
-            "sym_0-alg_1-cle_5",
-            "sym_0-alg_2.5-cle_5"
+            "sym_0-alg_1-cle_4",
+            "sym_0.75-alg_1-cle_4"
         ],
         [
-            "sym_0.8-alg_5-cle_0.5",
-            "sym_1.4-alg_5-cle_0.5"
+            "sym_0-alg_0.25-cle_4",
+            "sym_0.75-alg_0.25-cle_4"
         ],
         [
-            "sym_0-alg_5-cle_5",
-            "sym_0.2-alg_5-cle_5"
+            "sym_0.25-alg_0.75-cle_4",
+            "sym_4-alg_0.75-cle_4"
         ],
         [
-            "sym_0-alg_5-cle_5",
-            "sym_2-alg_5-cle_5"
+            "sym_0.25-alg_0.25-cle_4",
+            "sym_0.25-alg_4-cle_4"
         ],
         [
-            "sym_2-alg_0.5-cle_1",
-            "sym_2-alg_0.5-cle_5"
+            "sym_1-alg_0.75-cle_4",
+            "sym_4-alg_0.75-cle_4"
         ],
         [
-            "sym_0.8-alg_0.5-cle_0.5",
-            "sym_0.8-alg_1-cle_0.5"
+            "sym_0-alg_0.75-cle_4",
+            "sym_0-alg_1-cle_4"
         ],
         [
-            "sym_0.8-alg_5-cle_0.5",
-            "sym_0.8-alg_5-cle_5"
+            "sym_1-alg_1-cle_0.75",
+            "sym_4-alg_1-cle_0.75"
         ],
         [
-            "sym_0.8-alg_0.5-cle_2.5",
-            "sym_1.4-alg_0.5-cle_2.5"
+            "sym_4-alg_0.25-cle_0.25",
+            "sym_4-alg_4-cle_0.25"
         ],
         [
-            "sym_0.2-alg_2.5-cle_5",
-            "sym_0.2-alg_5-cle_5"
+            "sym_0-alg_0.75-cle_1",
+            "sym_0.75-alg_0.75-cle_1"
         ],
         [
-            "sym_1.4-alg_0.5-cle_0.5",
-            "sym_1.4-alg_5-cle_0.5"
+            "sym_0.25-alg_4-cle_0.25",
+            "sym_4-alg_4-cle_0.25"
         ],
         [
-            "sym_2-alg_2.5-cle_1",
-            "sym_2-alg_5-cle_1"
+            "sym_0.25-alg_0.25-cle_0.25",
+            "sym_0.25-alg_0.25-cle_1"
         ],
         [
-            "sym_0.8-alg_2.5-cle_0.5",
-            "sym_2-alg_2.5-cle_0.5"
+            "sym_0.25-alg_1-cle_0.25",
+            "sym_0.75-alg_1-cle_0.25"
         ],
         [
-            "sym_2-alg_1-cle_0.5",
-            "sym_2-alg_1-cle_5"
+            "sym_1-alg_0.75-cle_0.25",
+            "sym_1-alg_0.75-cle_4"
         ],
         [
-            "sym_0-alg_1-cle_5",
-            "sym_0.8-alg_1-cle_5"
+            "sym_1-alg_4-cle_1",
+            "sym_4-alg_4-cle_1"
         ],
         [
-            "sym_1.4-alg_1-cle_1",
-            "sym_1.4-alg_2.5-cle_1"
+            "sym_0.25-alg_0.25-cle_1",
+            "sym_0.25-alg_0.25-cle_4"
         ],
         [
-            "sym_2-alg_2.5-cle_1",
-            "sym_2-alg_2.5-cle_5"
+            "sym_4-alg_0.25-cle_0.25",
+            "sym_4-alg_0.25-cle_0.75"
         ],
         [
-            "sym_0.2-alg_1-cle_1",
-            "sym_1.4-alg_1-cle_1"
+            "sym_0.75-alg_0.25-cle_1",
+            "sym_1-alg_0.25-cle_1"
         ],
         [
-            "sym_1.4-alg_0.5-cle_0.5",
-            "sym_1.4-alg_1-cle_0.5"
+            "sym_4-alg_0.25-cle_0.75",
+            "sym_4-alg_1-cle_0.75"
         ],
         [
-            "sym_0-alg_0.5-cle_5",
-            "sym_0-alg_1-cle_5"
+            "sym_0.25-alg_0.25-cle_0.75",
+            "sym_0.25-alg_0.25-cle_4"
         ],
         [
-            "sym_0.2-alg_5-cle_0.5",
-            "sym_0.8-alg_5-cle_0.5"
+            "sym_0.75-alg_1-cle_0.25",
+            "sym_4-alg_1-cle_0.25"
         ],
         [
-            "sym_2-alg_1-cle_1",
-            "sym_2-alg_1-cle_2.5"
+            "sym_0-alg_0.75-cle_0.25",
+            "sym_0-alg_0.75-cle_4"
         ],
         [
-            "sym_0.2-alg_5-cle_2.5",
-            "sym_0.8-alg_5-cle_2.5"
+            "sym_0.75-alg_0.75-cle_4",
+            "sym_1-alg_0.75-cle_4"
         ],
         [
-            "sym_0.8-alg_0.5-cle_1",
-            "sym_0.8-alg_5-cle_1"
+            "sym_4-alg_4-cle_0.25",
+            "sym_4-alg_4-cle_4"
         ],
         [
-            "sym_0.8-alg_0.5-cle_0.5",
-            "sym_2-alg_0.5-cle_0.5"
+            "sym_0-alg_0.75-cle_0.75",
+            "sym_0.75-alg_0.75-cle_0.75"
         ],
         [
-            "sym_0.2-alg_5-cle_0.5",
-            "sym_0.2-alg_5-cle_2.5"
+            "sym_0.25-alg_0.75-cle_0.25",
+            "sym_0.25-alg_1-cle_0.25"
         ],
         [
-            "sym_0-alg_1-cle_0.5",
-            "sym_0.2-alg_1-cle_0.5"
+            "sym_1-alg_0.25-cle_4",
+            "sym_4-alg_0.25-cle_4"
         ],
         [
-            "sym_0-alg_2.5-cle_2.5",
-            "sym_0.2-alg_2.5-cle_2.5"
+            "sym_0.75-alg_0.75-cle_4",
+            "sym_0.75-alg_1-cle_4"
         ],
         [
-            "sym_0.8-alg_1-cle_0.5",
-            "sym_0.8-alg_1-cle_5"
+            "sym_4-alg_4-cle_0.25",
+            "sym_4-alg_4-cle_0.75"
         ],
         [
-            "sym_0-alg_5-cle_2.5",
-            "sym_0.8-alg_5-cle_2.5"
+            "sym_4-alg_0.25-cle_0.25",
+            "sym_4-alg_1-cle_0.25"
         ],
         [
-            "sym_0.8-alg_1-cle_5",
-            "sym_0.8-alg_5-cle_5"
+            "sym_0-alg_4-cle_1",
+            "sym_0.25-alg_4-cle_1"
         ],
         [
-            "sym_0.2-alg_1-cle_2.5",
-            "sym_1.4-alg_1-cle_2.5"
+            "sym_0.75-alg_0.75-cle_1",
+            "sym_0.75-alg_0.75-cle_4"
         ],
         [
-            "sym_0.8-alg_2.5-cle_5",
-            "sym_0.8-alg_5-cle_5"
+            "sym_4-alg_1-cle_0.75",
+            "sym_4-alg_4-cle_0.75"
         ],
         [
-            "sym_0.8-alg_5-cle_5",
-            "sym_2-alg_5-cle_5"
+            "sym_4-alg_1-cle_1",
+            "sym_4-alg_4-cle_1"
+        ],
+        [
+            "sym_0.25-alg_0.25-cle_0.25",
+            "sym_0.25-alg_4-cle_0.25"
+        ],
+        [
+            "sym_1-alg_1-cle_0.25",
+            "sym_1-alg_4-cle_0.25"
+        ],
+        [
+            "sym_0.75-alg_4-cle_1",
+            "sym_4-alg_4-cle_1"
+        ],
+        [
+            "sym_0.75-alg_0.75-cle_0.25",
+            "sym_0.75-alg_4-cle_0.25"
+        ],
+        [
+            "sym_0-alg_0.75-cle_4",
+            "sym_0.75-alg_0.75-cle_4"
+        ],
+        [
+            "sym_0-alg_0.75-cle_0.25",
+            "sym_0-alg_0.75-cle_0.75"
+        ],
+        [
+            "sym_0-alg_0.25-cle_1",
+            "sym_0-alg_0.25-cle_4"
+        ],
+        [
+            "sym_1-alg_1-cle_0.25",
+            "sym_4-alg_1-cle_0.25"
+        ],
+        [
+            "sym_0.25-alg_0.75-cle_0.25",
+            "sym_4-alg_0.75-cle_0.25"
+        ],
+        [
+            "sym_0.75-alg_1-cle_0.75",
+            "sym_1-alg_1-cle_0.75"
+        ],
+        [
+            "sym_0.75-alg_0.25-cle_0.75",
+            "sym_1-alg_0.25-cle_0.75"
+        ],
+        [
+            "sym_1-alg_4-cle_0.75",
+            "sym_4-alg_4-cle_0.75"
+        ],
+        [
+            "sym_0.25-alg_0.75-cle_4",
+            "sym_1-alg_0.75-cle_4"
+        ],
+        [
+            "sym_0.75-alg_0.75-cle_0.25",
+            "sym_0.75-alg_1-cle_0.25"
+        ],
+        [
+            "sym_0.75-alg_1-cle_4",
+            "sym_1-alg_1-cle_4"
+        ],
+        [
+            "sym_0.25-alg_1-cle_0.75",
+            "sym_0.25-alg_1-cle_4"
+        ],
+        [
+            "sym_4-alg_0.75-cle_0.75",
+            "sym_4-alg_1-cle_0.75"
         ],
         [
             "sym_0-alg_1-cle_1",
-            "sym_2-alg_1-cle_1"
+            "sym_4-alg_1-cle_1"
         ],
         [
-            "sym_2-alg_1-cle_0.5",
-            "sym_2-alg_2.5-cle_0.5"
+            "sym_0.75-alg_1-cle_1",
+            "sym_0.75-alg_1-cle_4"
         ],
         [
-            "sym_0.8-alg_1-cle_0.5",
-            "sym_2-alg_1-cle_0.5"
+            "sym_0.75-alg_0.25-cle_4",
+            "sym_0.75-alg_0.75-cle_4"
         ],
         [
-            "sym_0.2-alg_5-cle_0.5",
-            "sym_0.2-alg_5-cle_1"
+            "sym_0.75-alg_1-cle_1",
+            "sym_4-alg_1-cle_1"
         ],
         [
-            "sym_0.2-alg_2.5-cle_2.5",
-            "sym_0.2-alg_2.5-cle_5"
+            "sym_4-alg_1-cle_4",
+            "sym_4-alg_4-cle_4"
         ],
         [
-            "sym_0-alg_0.5-cle_1",
-            "sym_0-alg_0.5-cle_5"
-        ],
-        [
-            "sym_0.2-alg_0.5-cle_2.5",
-            "sym_1.4-alg_0.5-cle_2.5"
-        ],
-        [
-            "sym_0-alg_0.5-cle_1",
-            "sym_0-alg_5-cle_1"
-        ],
-        [
-            "sym_0-alg_1-cle_5",
-            "sym_1.4-alg_1-cle_5"
+            "sym_0-alg_4-cle_4",
+            "sym_1-alg_4-cle_4"
         ]
     ],
     "2": [
         [
-            "sym_0.2-alg_0.5-cle_2.5",
-            "sym_0.8-alg_0.5-cle_2.5"
+            "sym_0-alg_0.75-cle_0.25",
+            "sym_0.75-alg_0.75-cle_0.25"
         ],
         [
-            "sym_1.4-alg_1-cle_0.5",
-            "sym_2-alg_1-cle_0.5"
+            "sym_0.25-alg_4-cle_0.75",
+            "sym_0.75-alg_4-cle_0.75"
         ],
         [
-            "sym_2-alg_0.5-cle_0.5",
-            "sym_2-alg_1-cle_0.5"
+            "sym_0.75-alg_4-cle_0.25",
+            "sym_0.75-alg_4-cle_0.75"
         ],
         [
-            "sym_0.8-alg_1-cle_2.5",
-            "sym_0.8-alg_2.5-cle_2.5"
+            "sym_0.25-alg_1-cle_0.25",
+            "sym_0.25-alg_1-cle_4"
         ],
         [
-            "sym_0.2-alg_5-cle_5",
-            "sym_2-alg_5-cle_5"
+            "sym_0-alg_0.75-cle_1",
+            "sym_4-alg_0.75-cle_1"
         ],
         [
-            "sym_1.4-alg_0.5-cle_1",
-            "sym_1.4-alg_1-cle_1"
+            "sym_1-alg_0.25-cle_4",
+            "sym_1-alg_0.75-cle_4"
         ],
         [
-            "sym_0-alg_2.5-cle_5",
-            "sym_0.2-alg_2.5-cle_5"
+            "sym_0.75-alg_0.25-cle_0.25",
+            "sym_0.75-alg_1-cle_0.25"
         ],
         [
-            "sym_0-alg_5-cle_2.5",
-            "sym_2-alg_5-cle_2.5"
+            "sym_0-alg_1-cle_0.25",
+            "sym_4-alg_1-cle_0.25"
         ],
         [
-            "sym_0.2-alg_2.5-cle_2.5",
-            "sym_0.8-alg_2.5-cle_2.5"
+            "sym_0.25-alg_1-cle_4",
+            "sym_4-alg_1-cle_4"
         ],
         [
-            "sym_0.8-alg_2.5-cle_0.5",
-            "sym_0.8-alg_5-cle_0.5"
+            "sym_0.25-alg_4-cle_0.25",
+            "sym_0.25-alg_4-cle_4"
         ],
         [
-            "sym_0-alg_5-cle_1",
-            "sym_1.4-alg_5-cle_1"
+            "sym_0.25-alg_0.25-cle_0.75",
+            "sym_0.75-alg_0.25-cle_0.75"
         ],
         [
-            "sym_0.2-alg_2.5-cle_1",
-            "sym_0.2-alg_2.5-cle_5"
+            "sym_4-alg_0.75-cle_0.25",
+            "sym_4-alg_0.75-cle_0.75"
         ],
         [
-            "sym_1.4-alg_0.5-cle_1",
-            "sym_1.4-alg_2.5-cle_1"
+            "sym_0-alg_4-cle_0.25",
+            "sym_0.75-alg_4-cle_0.25"
         ],
         [
-            "sym_0.8-alg_1-cle_5",
-            "sym_0.8-alg_2.5-cle_5"
+            "sym_4-alg_0.25-cle_4",
+            "sym_4-alg_1-cle_4"
         ],
         [
-            "sym_0-alg_0.5-cle_2.5",
-            "sym_0-alg_0.5-cle_5"
+            "sym_0.75-alg_0.75-cle_0.25",
+            "sym_0.75-alg_0.75-cle_0.75"
         ],
         [
-            "sym_0.2-alg_1-cle_1",
-            "sym_2-alg_1-cle_1"
+            "sym_0.25-alg_4-cle_1",
+            "sym_4-alg_4-cle_1"
         ],
         [
-            "sym_0.2-alg_1-cle_1",
-            "sym_0.2-alg_1-cle_2.5"
+            "sym_0-alg_0.75-cle_1",
+            "sym_1-alg_0.75-cle_1"
         ],
         [
-            "sym_0.2-alg_2.5-cle_0.5",
-            "sym_2-alg_2.5-cle_0.5"
+            "sym_1-alg_0.25-cle_4",
+            "sym_1-alg_1-cle_4"
         ],
         [
-            "sym_2-alg_1-cle_2.5",
-            "sym_2-alg_1-cle_5"
+            "sym_0.25-alg_0.75-cle_4",
+            "sym_0.25-alg_1-cle_4"
+        ],
+        [
+            "sym_0.75-alg_1-cle_0.75",
+            "sym_0.75-alg_1-cle_1"
+        ],
+        [
+            "sym_0.25-alg_1-cle_1",
+            "sym_0.25-alg_1-cle_4"
+        ],
+        [
+            "sym_0-alg_0.25-cle_0.25",
+            "sym_0-alg_0.75-cle_0.25"
+        ],
+        [
+            "sym_0.75-alg_0.75-cle_0.25",
+            "sym_1-alg_0.75-cle_0.25"
+        ],
+        [
+            "sym_1-alg_0.75-cle_1",
+            "sym_4-alg_0.75-cle_1"
+        ],
+        [
+            "sym_0-alg_0.25-cle_1",
+            "sym_4-alg_0.25-cle_1"
+        ],
+        [
+            "sym_0-alg_1-cle_0.25",
+            "sym_0.25-alg_1-cle_0.25"
+        ],
+        [
+            "sym_4-alg_0.75-cle_1",
+            "sym_4-alg_4-cle_1"
+        ],
+        [
+            "sym_1-alg_1-cle_1",
+            "sym_4-alg_1-cle_1"
+        ],
+        [
+            "sym_0.75-alg_0.75-cle_0.25",
+            "sym_4-alg_0.75-cle_0.25"
+        ],
+        [
+            "sym_0-alg_4-cle_0.25",
+            "sym_1-alg_4-cle_0.25"
+        ],
+        [
+            "sym_0-alg_4-cle_4",
+            "sym_0.75-alg_4-cle_4"
+        ],
+        [
+            "sym_1-alg_0.75-cle_0.25",
+            "sym_1-alg_0.75-cle_0.75"
+        ],
+        [
+            "sym_4-alg_4-cle_1",
+            "sym_4-alg_4-cle_4"
+        ],
+        [
+            "sym_4-alg_0.75-cle_0.75",
+            "sym_4-alg_0.75-cle_1"
+        ],
+        [
+            "sym_1-alg_0.75-cle_4",
+            "sym_1-alg_1-cle_4"
+        ],
+        [
+            "sym_0.25-alg_1-cle_0.75",
+            "sym_0.75-alg_1-cle_0.75"
+        ],
+        [
+            "sym_0.25-alg_0.25-cle_0.25",
+            "sym_0.25-alg_0.75-cle_0.25"
+        ],
+        [
+            "sym_0.75-alg_0.75-cle_4",
+            "sym_0.75-alg_4-cle_4"
+        ],
+        [
+            "sym_0-alg_4-cle_1",
+            "sym_4-alg_4-cle_1"
+        ],
+        [
+            "sym_0-alg_0.25-cle_0.25",
+            "sym_4-alg_0.25-cle_0.25"
+        ],
+        [
+            "sym_0.75-alg_0.25-cle_1",
+            "sym_4-alg_0.25-cle_1"
+        ],
+        [
+            "sym_4-alg_0.75-cle_0.25",
+            "sym_4-alg_4-cle_0.25"
+        ],
+        [
+            "sym_0.75-alg_4-cle_0.75",
+            "sym_4-alg_4-cle_0.75"
+        ],
+        [
+            "sym_0-alg_0.75-cle_0.25",
+            "sym_0.25-alg_0.75-cle_0.25"
+        ],
+        [
+            "sym_4-alg_0.75-cle_0.25",
+            "sym_4-alg_0.75-cle_4"
         ],
         [
             "sym_0-alg_1-cle_1",
-            "sym_1.4-alg_1-cle_1"
+            "sym_0-alg_4-cle_1"
         ],
         [
-            "sym_0.8-alg_0.5-cle_2.5",
-            "sym_0.8-alg_0.5-cle_5"
+            "sym_0.25-alg_0.75-cle_0.25",
+            "sym_1-alg_0.75-cle_0.25"
         ],
         [
-            "sym_2-alg_0.5-cle_2.5",
-            "sym_2-alg_0.5-cle_5"
+            "sym_1-alg_4-cle_0.25",
+            "sym_4-alg_4-cle_0.25"
         ],
         [
-            "sym_0.8-alg_0.5-cle_2.5",
-            "sym_0.8-alg_2.5-cle_2.5"
+            "sym_0-alg_1-cle_0.25",
+            "sym_0.75-alg_1-cle_0.25"
         ],
         [
-            "sym_0-alg_0.5-cle_5",
-            "sym_2-alg_0.5-cle_5"
+            "sym_4-alg_4-cle_0.75",
+            "sym_4-alg_4-cle_4"
         ],
         [
-            "sym_1.4-alg_0.5-cle_2.5",
-            "sym_2-alg_0.5-cle_2.5"
+            "sym_0-alg_0.75-cle_0.25",
+            "sym_0-alg_0.75-cle_1"
         ],
         [
-            "sym_1.4-alg_1-cle_0.5",
-            "sym_1.4-alg_1-cle_1"
+            "sym_0.25-alg_1-cle_0.75",
+            "sym_0.25-alg_1-cle_1"
         ],
         [
-            "sym_0.2-alg_1-cle_0.5",
-            "sym_0.2-alg_1-cle_5"
+            "sym_0.75-alg_0.25-cle_0.75",
+            "sym_0.75-alg_1-cle_0.75"
         ],
         [
-            "sym_0.8-alg_0.5-cle_2.5",
-            "sym_0.8-alg_5-cle_2.5"
+            "sym_0.75-alg_0.75-cle_0.75",
+            "sym_0.75-alg_1-cle_0.75"
         ],
         [
-            "sym_0-alg_5-cle_5",
-            "sym_1.4-alg_5-cle_5"
+            "sym_0-alg_4-cle_0.25",
+            "sym_0-alg_4-cle_0.75"
         ],
         [
-            "sym_0-alg_0.5-cle_5",
-            "sym_0.2-alg_0.5-cle_5"
+            "sym_0.75-alg_1-cle_1",
+            "sym_0.75-alg_4-cle_1"
         ],
         [
-            "sym_0.8-alg_0.5-cle_1",
-            "sym_0.8-alg_0.5-cle_2.5"
+            "sym_1-alg_0.25-cle_1",
+            "sym_1-alg_0.25-cle_4"
         ],
         [
-            "sym_0.8-alg_0.5-cle_1",
-            "sym_1.4-alg_0.5-cle_1"
+            "sym_0.25-alg_0.25-cle_4",
+            "sym_0.25-alg_0.75-cle_4"
         ],
         [
-            "sym_2-alg_0.5-cle_5",
-            "sym_2-alg_2.5-cle_5"
+            "sym_0-alg_1-cle_0.25",
+            "sym_0-alg_1-cle_4"
         ],
         [
-            "sym_0.8-alg_5-cle_2.5",
-            "sym_0.8-alg_5-cle_5"
+            "sym_0.75-alg_0.75-cle_1",
+            "sym_0.75-alg_4-cle_1"
         ],
         [
-            "sym_0.2-alg_1-cle_0.5",
-            "sym_0.2-alg_2.5-cle_0.5"
+            "sym_4-alg_1-cle_0.75",
+            "sym_4-alg_1-cle_1"
         ],
         [
-            "sym_2-alg_0.5-cle_0.5",
-            "sym_2-alg_2.5-cle_0.5"
+            "sym_0.75-alg_0.25-cle_0.25",
+            "sym_0.75-alg_0.25-cle_1"
         ],
         [
-            "sym_2-alg_2.5-cle_2.5",
-            "sym_2-alg_2.5-cle_5"
+            "sym_0.75-alg_0.75-cle_0.75",
+            "sym_0.75-alg_0.75-cle_1"
         ],
         [
-            "sym_0-alg_2.5-cle_1",
-            "sym_0.8-alg_2.5-cle_1"
+            "sym_0-alg_1-cle_1",
+            "sym_1-alg_1-cle_1"
         ],
         [
-            "sym_0.2-alg_0.5-cle_1",
-            "sym_0.2-alg_0.5-cle_2.5"
+            "sym_0-alg_0.25-cle_0.75",
+            "sym_0-alg_1-cle_0.75"
         ],
         [
-            "sym_1.4-alg_1-cle_1",
-            "sym_1.4-alg_1-cle_2.5"
+            "sym_1-alg_0.25-cle_0.25",
+            "sym_1-alg_0.25-cle_1"
         ],
         [
-            "sym_0-alg_0.5-cle_1",
-            "sym_0.2-alg_0.5-cle_1"
+            "sym_0-alg_0.25-cle_4",
+            "sym_4-alg_0.25-cle_4"
         ],
         [
-            "sym_0-alg_0.5-cle_0.5",
-            "sym_0-alg_0.5-cle_2.5"
+            "sym_0-alg_4-cle_0.75",
+            "sym_1-alg_4-cle_0.75"
         ],
         [
-            "sym_0-alg_1-cle_2.5",
-            "sym_2-alg_1-cle_2.5"
+            "sym_1-alg_1-cle_1",
+            "sym_1-alg_1-cle_4"
         ],
         [
-            "sym_0.8-alg_0.5-cle_2.5",
-            "sym_2-alg_0.5-cle_2.5"
+            "sym_0-alg_4-cle_1",
+            "sym_1-alg_4-cle_1"
         ],
         [
-            "sym_0.2-alg_0.5-cle_5",
-            "sym_0.2-alg_5-cle_5"
+            "sym_4-alg_0.25-cle_4",
+            "sym_4-alg_4-cle_4"
         ],
         [
-            "sym_1.4-alg_2.5-cle_1",
-            "sym_2-alg_2.5-cle_1"
+            "sym_1-alg_4-cle_0.75",
+            "sym_1-alg_4-cle_4"
         ],
         [
-            "sym_0.8-alg_1-cle_1",
-            "sym_1.4-alg_1-cle_1"
+            "sym_0-alg_4-cle_1",
+            "sym_0-alg_4-cle_4"
         ],
         [
-            "sym_0-alg_0.5-cle_1",
-            "sym_1.4-alg_0.5-cle_1"
+            "sym_0.25-alg_0.25-cle_1",
+            "sym_0.75-alg_0.25-cle_1"
         ],
         [
-            "sym_0-alg_0.5-cle_2.5",
-            "sym_0-alg_1-cle_2.5"
+            "sym_4-alg_0.75-cle_0.75",
+            "sym_4-alg_4-cle_0.75"
         ],
         [
-            "sym_2-alg_1-cle_1",
-            "sym_2-alg_5-cle_1"
+            "sym_0-alg_0.25-cle_0.25",
+            "sym_0-alg_1-cle_0.25"
         ],
         [
-            "sym_2-alg_1-cle_5",
-            "sym_2-alg_5-cle_5"
+            "sym_0.25-alg_0.75-cle_0.75",
+            "sym_1-alg_0.75-cle_0.75"
         ],
         [
-            "sym_0-alg_0.5-cle_0.5",
-            "sym_0.2-alg_0.5-cle_0.5"
+            "sym_4-alg_1-cle_1",
+            "sym_4-alg_1-cle_4"
         ],
         [
-            "sym_2-alg_5-cle_0.5",
-            "sym_2-alg_5-cle_1"
+            "sym_0.75-alg_4-cle_0.25",
+            "sym_0.75-alg_4-cle_4"
         ],
         [
-            "sym_2-alg_0.5-cle_5",
-            "sym_2-alg_1-cle_5"
-        ],
-        [
-            "sym_0.8-alg_1-cle_2.5",
-            "sym_2-alg_1-cle_2.5"
-        ],
-        [
-            "sym_0-alg_1-cle_2.5",
-            "sym_0-alg_5-cle_2.5"
-        ],
-        [
-            "sym_0.8-alg_0.5-cle_0.5",
-            "sym_0.8-alg_0.5-cle_2.5"
-        ],
-        [
-            "sym_2-alg_1-cle_0.5",
-            "sym_2-alg_5-cle_0.5"
-        ],
-        [
-            "sym_0-alg_5-cle_0.5",
-            "sym_1.4-alg_5-cle_0.5"
-        ],
-        [
-            "sym_0-alg_2.5-cle_0.5",
-            "sym_2-alg_2.5-cle_0.5"
-        ],
-        [
-            "sym_0-alg_0.5-cle_1",
-            "sym_0-alg_2.5-cle_1"
-        ],
-        [
-            "sym_2-alg_1-cle_0.5",
-            "sym_2-alg_1-cle_2.5"
-        ],
-        [
-            "sym_0.2-alg_2.5-cle_1",
-            "sym_0.2-alg_5-cle_1"
-        ],
-        [
-            "sym_0.8-alg_5-cle_0.5",
-            "sym_0.8-alg_5-cle_1"
-        ],
-        [
-            "sym_0.2-alg_2.5-cle_1",
-            "sym_1.4-alg_2.5-cle_1"
-        ],
-        [
-            "sym_0.8-alg_1-cle_0.5",
-            "sym_0.8-alg_1-cle_2.5"
+            "sym_0-alg_0.75-cle_0.25",
+            "sym_0-alg_1-cle_0.25"
         ]
     ],
     "3": [
         [
-            "sym_1.4-alg_5-cle_0.5",
-            "sym_1.4-alg_5-cle_5"
+            "sym_0.75-alg_0.75-cle_0.25",
+            "sym_0.75-alg_0.75-cle_4"
         ],
         [
-            "sym_0.8-alg_0.5-cle_0.5",
-            "sym_0.8-alg_2.5-cle_0.5"
+            "sym_4-alg_0.25-cle_4",
+            "sym_4-alg_0.75-cle_4"
         ],
         [
-            "sym_0-alg_0.5-cle_0.5",
-            "sym_0-alg_5-cle_0.5"
+            "sym_0-alg_0.25-cle_0.75",
+            "sym_4-alg_0.25-cle_0.75"
         ],
         [
-            "sym_1.4-alg_2.5-cle_5",
-            "sym_2-alg_2.5-cle_5"
+            "sym_0.25-alg_4-cle_0.25",
+            "sym_1-alg_4-cle_0.25"
         ],
         [
-            "sym_1.4-alg_5-cle_1",
-            "sym_1.4-alg_5-cle_5"
+            "sym_1-alg_0.25-cle_0.25",
+            "sym_1-alg_0.75-cle_0.25"
         ],
         [
-            "sym_0-alg_2.5-cle_1",
-            "sym_1.4-alg_2.5-cle_1"
+            "sym_0.75-alg_4-cle_0.25",
+            "sym_4-alg_4-cle_0.25"
         ],
         [
-            "sym_0-alg_0.5-cle_1",
-            "sym_0.8-alg_0.5-cle_1"
+            "sym_1-alg_1-cle_0.75",
+            "sym_1-alg_4-cle_0.75"
         ],
         [
-            "sym_1.4-alg_2.5-cle_0.5",
-            "sym_1.4-alg_5-cle_0.5"
+            "sym_0.25-alg_0.25-cle_0.25",
+            "sym_0.25-alg_0.25-cle_4"
         ],
         [
-            "sym_0.2-alg_2.5-cle_0.5",
-            "sym_0.2-alg_5-cle_0.5"
+            "sym_4-alg_0.75-cle_4",
+            "sym_4-alg_1-cle_4"
         ],
         [
-            "sym_0.8-alg_1-cle_2.5",
-            "sym_0.8-alg_1-cle_5"
+            "sym_0-alg_1-cle_0.25",
+            "sym_0-alg_1-cle_0.75"
         ],
         [
-            "sym_0.2-alg_1-cle_0.5",
-            "sym_0.2-alg_1-cle_2.5"
+            "sym_0.25-alg_0.25-cle_0.75",
+            "sym_0.25-alg_4-cle_0.75"
         ],
         [
-            "sym_2-alg_1-cle_2.5",
-            "sym_2-alg_2.5-cle_2.5"
+            "sym_1-alg_0.25-cle_0.25",
+            "sym_1-alg_0.25-cle_0.75"
         ],
         [
-            "sym_0-alg_2.5-cle_5",
-            "sym_2-alg_2.5-cle_5"
+            "sym_0-alg_0.25-cle_0.75",
+            "sym_0-alg_0.25-cle_4"
         ],
         [
-            "sym_0.2-alg_5-cle_2.5",
-            "sym_0.2-alg_5-cle_5"
+            "sym_0-alg_1-cle_0.25",
+            "sym_0-alg_4-cle_0.25"
         ],
         [
-            "sym_0.8-alg_0.5-cle_5",
-            "sym_0.8-alg_1-cle_5"
+            "sym_0.25-alg_4-cle_0.75",
+            "sym_4-alg_4-cle_0.75"
         ],
         [
-            "sym_1.4-alg_5-cle_0.5",
-            "sym_1.4-alg_5-cle_2.5"
+            "sym_4-alg_0.25-cle_0.75",
+            "sym_4-alg_4-cle_0.75"
         ],
         [
-            "sym_1.4-alg_0.5-cle_0.5",
-            "sym_2-alg_0.5-cle_0.5"
+            "sym_0.25-alg_4-cle_4",
+            "sym_1-alg_4-cle_4"
         ],
         [
-            "sym_0-alg_1-cle_1",
-            "sym_0-alg_1-cle_5"
+            "sym_0.75-alg_0.25-cle_0.75",
+            "sym_0.75-alg_0.75-cle_0.75"
         ],
         [
-            "sym_0.2-alg_0.5-cle_0.5",
-            "sym_2-alg_0.5-cle_0.5"
+            "sym_0-alg_0.25-cle_1",
+            "sym_0-alg_4-cle_1"
         ],
         [
-            "sym_0.8-alg_0.5-cle_0.5",
-            "sym_0.8-alg_5-cle_0.5"
+            "sym_0.25-alg_0.25-cle_4",
+            "sym_0.75-alg_0.25-cle_4"
         ],
         [
-            "sym_2-alg_5-cle_0.5",
-            "sym_2-alg_5-cle_5"
+            "sym_0.25-alg_4-cle_0.25",
+            "sym_0.25-alg_4-cle_1"
         ],
         [
-            "sym_2-alg_5-cle_1",
-            "sym_2-alg_5-cle_5"
+            "sym_0-alg_1-cle_4",
+            "sym_0-alg_4-cle_4"
         ],
         [
-            "sym_0.2-alg_5-cle_5",
-            "sym_1.4-alg_5-cle_5"
+            "sym_4-alg_0.25-cle_1",
+            "sym_4-alg_1-cle_1"
         ],
         [
-            "sym_0-alg_5-cle_2.5",
-            "sym_0-alg_5-cle_5"
+            "sym_0-alg_4-cle_0.75",
+            "sym_0.75-alg_4-cle_0.75"
         ],
         [
-            "sym_0.2-alg_5-cle_2.5",
-            "sym_1.4-alg_5-cle_2.5"
+            "sym_4-alg_0.25-cle_0.75",
+            "sym_4-alg_0.25-cle_4"
         ],
         [
-            "sym_0.8-alg_2.5-cle_0.5",
-            "sym_0.8-alg_2.5-cle_1"
+            "sym_0.75-alg_0.75-cle_1",
+            "sym_0.75-alg_1-cle_1"
         ],
         [
-            "sym_0-alg_0.5-cle_5",
-            "sym_0-alg_5-cle_5"
+            "sym_1-alg_4-cle_0.25",
+            "sym_1-alg_4-cle_4"
         ],
         [
-            "sym_0-alg_0.5-cle_5",
-            "sym_0-alg_2.5-cle_5"
+            "sym_0.25-alg_1-cle_0.75",
+            "sym_1-alg_1-cle_0.75"
         ],
         [
-            "sym_0.2-alg_0.5-cle_0.5",
-            "sym_0.2-alg_1-cle_0.5"
+            "sym_0-alg_4-cle_4",
+            "sym_0.25-alg_4-cle_4"
         ],
         [
-            "sym_0.2-alg_5-cle_0.5",
-            "sym_2-alg_5-cle_0.5"
+            "sym_0.25-alg_0.25-cle_0.25",
+            "sym_1-alg_0.25-cle_0.25"
         ],
         [
-            "sym_0-alg_2.5-cle_2.5",
-            "sym_0-alg_2.5-cle_5"
+            "sym_1-alg_0.25-cle_0.75",
+            "sym_1-alg_4-cle_0.75"
         ],
         [
-            "sym_0.8-alg_1-cle_2.5",
-            "sym_1.4-alg_1-cle_2.5"
+            "sym_0.75-alg_1-cle_0.75",
+            "sym_0.75-alg_4-cle_0.75"
         ],
         [
-            "sym_2-alg_2.5-cle_5",
-            "sym_2-alg_5-cle_5"
+            "sym_0-alg_0.75-cle_0.75",
+            "sym_0.25-alg_0.75-cle_0.75"
         ],
         [
-            "sym_0.2-alg_0.5-cle_5",
-            "sym_0.2-alg_1-cle_5"
+            "sym_1-alg_4-cle_1",
+            "sym_1-alg_4-cle_4"
         ],
         [
-            "sym_0.2-alg_0.5-cle_1",
-            "sym_1.4-alg_0.5-cle_1"
+            "sym_1-alg_0.75-cle_0.75",
+            "sym_4-alg_0.75-cle_0.75"
         ],
         [
-            "sym_1.4-alg_2.5-cle_5",
-            "sym_1.4-alg_5-cle_5"
+            "sym_0.75-alg_0.75-cle_0.75",
+            "sym_1-alg_0.75-cle_0.75"
         ],
         [
-            "sym_0.2-alg_1-cle_1",
-            "sym_0.8-alg_1-cle_1"
+            "sym_0.75-alg_0.25-cle_0.75",
+            "sym_0.75-alg_4-cle_0.75"
         ],
         [
-            "sym_0.2-alg_1-cle_1",
-            "sym_0.2-alg_2.5-cle_1"
+            "sym_4-alg_0.75-cle_0.25",
+            "sym_4-alg_1-cle_0.25"
         ],
         [
-            "sym_0.2-alg_1-cle_5",
-            "sym_0.2-alg_2.5-cle_5"
+            "sym_0-alg_0.75-cle_0.75",
+            "sym_0-alg_4-cle_0.75"
         ],
         [
-            "sym_2-alg_0.5-cle_1",
-            "sym_2-alg_0.5-cle_2.5"
+            "sym_0-alg_0.75-cle_4",
+            "sym_4-alg_0.75-cle_4"
         ],
         [
-            "sym_1.4-alg_5-cle_5",
-            "sym_2-alg_5-cle_5"
+            "sym_4-alg_0.25-cle_1",
+            "sym_4-alg_0.75-cle_1"
         ],
         [
-            "sym_0.2-alg_0.5-cle_1",
-            "sym_0.2-alg_5-cle_1"
+            "sym_0-alg_1-cle_4",
+            "sym_4-alg_1-cle_4"
         ],
         [
-            "sym_2-alg_0.5-cle_0.5",
-            "sym_2-alg_5-cle_0.5"
+            "sym_0.25-alg_4-cle_1",
+            "sym_0.25-alg_4-cle_4"
         ],
         [
-            "sym_0.8-alg_5-cle_1",
-            "sym_2-alg_5-cle_1"
+            "sym_0.25-alg_0.25-cle_1",
+            "sym_4-alg_0.25-cle_1"
         ],
         [
-            "sym_0.8-alg_1-cle_1",
-            "sym_0.8-alg_1-cle_2.5"
+            "sym_0-alg_0.25-cle_0.25",
+            "sym_1-alg_0.25-cle_0.25"
         ],
         [
-            "sym_0.2-alg_5-cle_1",
-            "sym_1.4-alg_5-cle_1"
+            "sym_0.75-alg_0.75-cle_0.75",
+            "sym_4-alg_0.75-cle_0.75"
         ],
         [
-            "sym_1.4-alg_2.5-cle_2.5",
-            "sym_1.4-alg_2.5-cle_5"
+            "sym_4-alg_0.75-cle_1",
+            "sym_4-alg_0.75-cle_4"
         ],
         [
-            "sym_0.2-alg_1-cle_1",
-            "sym_0.2-alg_5-cle_1"
+            "sym_1-alg_4-cle_0.25",
+            "sym_1-alg_4-cle_1"
         ],
         [
-            "sym_1.4-alg_0.5-cle_0.5",
-            "sym_1.4-alg_0.5-cle_5"
+            "sym_0.25-alg_4-cle_1",
+            "sym_0.75-alg_4-cle_1"
         ],
         [
-            "sym_0.2-alg_0.5-cle_5",
-            "sym_2-alg_0.5-cle_5"
+            "sym_0-alg_0.25-cle_0.25",
+            "sym_0-alg_0.25-cle_1"
         ],
         [
-            "sym_0.8-alg_5-cle_2.5",
-            "sym_1.4-alg_5-cle_2.5"
+            "sym_0.75-alg_0.75-cle_0.25",
+            "sym_0.75-alg_0.75-cle_1"
         ],
         [
-            "sym_0-alg_2.5-cle_2.5",
-            "sym_2-alg_2.5-cle_2.5"
+            "sym_4-alg_0.25-cle_0.25",
+            "sym_4-alg_0.25-cle_4"
         ],
         [
-            "sym_0.2-alg_0.5-cle_0.5",
-            "sym_0.8-alg_0.5-cle_0.5"
+            "sym_0-alg_0.25-cle_1",
+            "sym_0-alg_0.75-cle_1"
         ],
         [
-            "sym_0-alg_0.5-cle_1",
-            "sym_2-alg_0.5-cle_1"
+            "sym_1-alg_4-cle_4",
+            "sym_4-alg_4-cle_4"
         ],
         [
-            "sym_0-alg_0.5-cle_2.5",
-            "sym_1.4-alg_0.5-cle_2.5"
+            "sym_0.75-alg_4-cle_0.75",
+            "sym_0.75-alg_4-cle_4"
         ],
         [
-            "sym_1.4-alg_2.5-cle_2.5",
-            "sym_1.4-alg_5-cle_2.5"
+            "sym_0-alg_1-cle_0.75",
+            "sym_0-alg_4-cle_0.75"
         ],
         [
-            "sym_1.4-alg_2.5-cle_0.5",
-            "sym_1.4-alg_2.5-cle_1"
+            "sym_0-alg_0.25-cle_0.25",
+            "sym_0-alg_0.25-cle_0.75"
         ],
         [
-            "sym_0-alg_2.5-cle_2.5",
-            "sym_1.4-alg_2.5-cle_2.5"
+            "sym_4-alg_0.75-cle_0.25",
+            "sym_4-alg_0.75-cle_1"
         ],
         [
-            "sym_0-alg_5-cle_0.5",
-            "sym_0-alg_5-cle_5"
+            "sym_0.25-alg_0.75-cle_4",
+            "sym_0.75-alg_0.75-cle_4"
         ],
         [
-            "sym_0.2-alg_1-cle_0.5",
-            "sym_0.2-alg_5-cle_0.5"
+            "sym_1-alg_0.75-cle_4",
+            "sym_1-alg_4-cle_4"
         ],
         [
-            "sym_0-alg_1-cle_0.5",
-            "sym_0.8-alg_1-cle_0.5"
+            "sym_0.25-alg_1-cle_0.75",
+            "sym_0.25-alg_4-cle_0.75"
         ],
         [
-            "sym_0.2-alg_2.5-cle_0.5",
-            "sym_0.2-alg_2.5-cle_5"
+            "sym_0-alg_0.25-cle_0.75",
+            "sym_0.75-alg_0.25-cle_0.75"
         ],
         [
-            "sym_0.8-alg_1-cle_1",
-            "sym_0.8-alg_1-cle_5"
+            "sym_0.25-alg_4-cle_4",
+            "sym_4-alg_4-cle_4"
         ],
         [
-            "sym_0-alg_1-cle_2.5",
-            "sym_0-alg_2.5-cle_2.5"
+            "sym_1-alg_0.25-cle_0.25",
+            "sym_4-alg_0.25-cle_0.25"
         ],
         [
-            "sym_0.8-alg_5-cle_5",
-            "sym_1.4-alg_5-cle_5"
+            "sym_0.25-alg_4-cle_0.25",
+            "sym_0.75-alg_4-cle_0.25"
         ],
         [
-            "sym_2-alg_0.5-cle_0.5",
-            "sym_2-alg_0.5-cle_5"
+            "sym_0.75-alg_0.25-cle_0.25",
+            "sym_0.75-alg_4-cle_0.25"
+        ],
+        [
+            "sym_4-alg_1-cle_0.25",
+            "sym_4-alg_1-cle_1"
+        ],
+        [
+            "sym_0.75-alg_1-cle_0.25",
+            "sym_0.75-alg_1-cle_4"
+        ],
+        [
+            "sym_0.75-alg_0.25-cle_0.25",
+            "sym_0.75-alg_0.25-cle_0.75"
+        ],
+        [
+            "sym_0.25-alg_1-cle_4",
+            "sym_1-alg_1-cle_4"
+        ],
+        [
+            "sym_0.75-alg_0.25-cle_0.75",
+            "sym_0.75-alg_0.25-cle_1"
+        ],
+        [
+            "sym_0-alg_0.75-cle_4",
+            "sym_1-alg_0.75-cle_4"
+        ],
+        [
+            "sym_0.25-alg_0.25-cle_1",
+            "sym_0.25-alg_0.75-cle_1"
+        ],
+        [
+            "sym_0-alg_0.25-cle_4",
+            "sym_0-alg_1-cle_4"
+        ],
+        [
+            "sym_4-alg_1-cle_0.25",
+            "sym_4-alg_1-cle_4"
+        ],
+        [
+            "sym_0-alg_0.25-cle_1",
+            "sym_0.75-alg_0.25-cle_1"
+        ],
+        [
+            "sym_0.25-alg_0.25-cle_0.25",
+            "sym_0.25-alg_0.25-cle_0.75"
+        ],
+        [
+            "sym_1-alg_0.25-cle_0.75",
+            "sym_1-alg_0.75-cle_0.75"
+        ],
+        [
+            "sym_0-alg_0.25-cle_0.25",
+            "sym_0-alg_4-cle_0.25"
+        ],
+        [
+            "sym_0.75-alg_1-cle_1",
+            "sym_1-alg_1-cle_1"
         ]
     ],
     "4": [
         [
-            "sym_0.8-alg_0.5-cle_1",
-            "sym_0.8-alg_1-cle_1"
+            "sym_0.25-alg_0.75-cle_1",
+            "sym_0.25-alg_1-cle_1"
         ],
         [
-            "sym_0.2-alg_1-cle_2.5",
-            "sym_0.8-alg_1-cle_2.5"
+            "sym_1-alg_0.25-cle_0.75",
+            "sym_1-alg_0.25-cle_4"
         ],
         [
-            "sym_0.8-alg_2.5-cle_1",
-            "sym_2-alg_2.5-cle_1"
-        ],
-        [
-            "sym_1.4-alg_5-cle_1",
-            "sym_1.4-alg_5-cle_2.5"
-        ],
-        [
-            "sym_0.2-alg_5-cle_1",
-            "sym_0.2-alg_5-cle_5"
-        ],
-        [
-            "sym_0.2-alg_0.5-cle_2.5",
-            "sym_0.2-alg_1-cle_2.5"
-        ],
-        [
-            "sym_1.4-alg_0.5-cle_0.5",
-            "sym_1.4-alg_2.5-cle_0.5"
-        ],
-        [
-            "sym_0.8-alg_0.5-cle_0.5",
-            "sym_0.8-alg_0.5-cle_1"
-        ],
-        [
-            "sym_0-alg_2.5-cle_1",
-            "sym_0-alg_2.5-cle_2.5"
-        ],
-        [
-            "sym_0-alg_1-cle_5",
-            "sym_0.2-alg_1-cle_5"
-        ],
-        [
-            "sym_0.2-alg_5-cle_2.5",
-            "sym_2-alg_5-cle_2.5"
-        ],
-        [
-            "sym_0.2-alg_5-cle_1",
-            "sym_2-alg_5-cle_1"
-        ],
-        [
-            "sym_0.8-alg_2.5-cle_2.5",
-            "sym_2-alg_2.5-cle_2.5"
-        ],
-        [
-            "sym_0-alg_5-cle_1",
-            "sym_0.8-alg_5-cle_1"
-        ],
-        [
-            "sym_0-alg_2.5-cle_0.5",
-            "sym_0.8-alg_2.5-cle_0.5"
-        ],
-        [
-            "sym_0-alg_5-cle_1",
-            "sym_0-alg_5-cle_5"
-        ],
-        [
-            "sym_0-alg_0.5-cle_1",
-            "sym_0-alg_0.5-cle_2.5"
-        ],
-        [
-            "sym_0.8-alg_5-cle_0.5",
-            "sym_2-alg_5-cle_0.5"
-        ],
-        [
-            "sym_0-alg_2.5-cle_0.5",
-            "sym_0-alg_2.5-cle_5"
-        ],
-        [
-            "sym_0-alg_5-cle_0.5",
-            "sym_2-alg_5-cle_0.5"
-        ],
-        [
-            "sym_0.2-alg_0.5-cle_0.5",
-            "sym_0.2-alg_5-cle_0.5"
-        ],
-        [
-            "sym_0.2-alg_1-cle_0.5",
-            "sym_2-alg_1-cle_0.5"
-        ],
-        [
-            "sym_0.8-alg_2.5-cle_1",
-            "sym_0.8-alg_2.5-cle_5"
-        ],
-        [
-            "sym_0.2-alg_1-cle_0.5",
-            "sym_1.4-alg_1-cle_0.5"
-        ],
-        [
-            "sym_2-alg_0.5-cle_1",
-            "sym_2-alg_5-cle_1"
-        ],
-        [
-            "sym_0.8-alg_0.5-cle_5",
-            "sym_1.4-alg_0.5-cle_5"
-        ],
-        [
-            "sym_0-alg_5-cle_2.5",
-            "sym_0.2-alg_5-cle_2.5"
+            "sym_1-alg_0.25-cle_1",
+            "sym_1-alg_4-cle_1"
         ],
         [
             "sym_0-alg_1-cle_1",
-            "sym_0-alg_5-cle_1"
+            "sym_0-alg_1-cle_4"
         ],
         [
-            "sym_0.2-alg_0.5-cle_5",
-            "sym_0.2-alg_2.5-cle_5"
+            "sym_1-alg_0.75-cle_0.25",
+            "sym_1-alg_4-cle_0.25"
         ],
         [
-            "sym_0-alg_5-cle_5",
-            "sym_0.8-alg_5-cle_5"
+            "sym_0-alg_1-cle_0.75",
+            "sym_0.75-alg_1-cle_0.75"
         ],
         [
-            "sym_0.2-alg_2.5-cle_0.5",
-            "sym_0.2-alg_2.5-cle_2.5"
+            "sym_0-alg_0.25-cle_0.75",
+            "sym_1-alg_0.25-cle_0.75"
         ],
         [
-            "sym_0-alg_1-cle_0.5",
-            "sym_0-alg_5-cle_0.5"
+            "sym_1-alg_0.75-cle_1",
+            "sym_1-alg_4-cle_1"
         ],
         [
-            "sym_0-alg_2.5-cle_0.5",
-            "sym_1.4-alg_2.5-cle_0.5"
+            "sym_0.25-alg_1-cle_4",
+            "sym_0.25-alg_4-cle_4"
         ],
         [
-            "sym_0.2-alg_2.5-cle_5",
-            "sym_1.4-alg_2.5-cle_5"
+            "sym_1-alg_4-cle_0.25",
+            "sym_1-alg_4-cle_0.75"
         ],
         [
-            "sym_1.4-alg_1-cle_1",
-            "sym_1.4-alg_1-cle_5"
+            "sym_1-alg_0.25-cle_0.75",
+            "sym_1-alg_1-cle_0.75"
         ],
         [
-            "sym_0-alg_1-cle_0.5",
-            "sym_0-alg_1-cle_5"
+            "sym_1-alg_1-cle_1",
+            "sym_1-alg_4-cle_1"
         ],
         [
-            "sym_1.4-alg_5-cle_0.5",
-            "sym_1.4-alg_5-cle_1"
+            "sym_0-alg_1-cle_4",
+            "sym_1-alg_1-cle_4"
         ],
         [
-            "sym_2-alg_2.5-cle_0.5",
-            "sym_2-alg_2.5-cle_5"
+            "sym_1-alg_1-cle_0.75",
+            "sym_1-alg_1-cle_1"
         ],
         [
-            "sym_1.4-alg_2.5-cle_1",
-            "sym_1.4-alg_2.5-cle_2.5"
+            "sym_0.25-alg_0.75-cle_0.25",
+            "sym_0.25-alg_4-cle_0.25"
         ],
         [
-            "sym_0.2-alg_1-cle_0.5",
-            "sym_0.8-alg_1-cle_0.5"
+            "sym_0.25-alg_4-cle_1",
+            "sym_1-alg_4-cle_1"
         ],
         [
-            "sym_2-alg_5-cle_2.5",
-            "sym_2-alg_5-cle_5"
+            "sym_1-alg_0.25-cle_0.75",
+            "sym_4-alg_0.25-cle_0.75"
         ],
         [
-            "sym_1.4-alg_1-cle_2.5",
-            "sym_1.4-alg_5-cle_2.5"
+            "sym_4-alg_0.25-cle_0.25",
+            "sym_4-alg_0.25-cle_1"
         ],
         [
-            "sym_2-alg_0.5-cle_1",
-            "sym_2-alg_2.5-cle_1"
+            "sym_0.25-alg_1-cle_0.25",
+            "sym_0.25-alg_4-cle_0.25"
         ],
         [
-            "sym_0.8-alg_1-cle_5",
-            "sym_1.4-alg_1-cle_5"
+            "sym_0-alg_1-cle_4",
+            "sym_0.25-alg_1-cle_4"
         ],
         [
-            "sym_0-alg_5-cle_1",
-            "sym_2-alg_5-cle_1"
+            "sym_0-alg_0.75-cle_4",
+            "sym_0.25-alg_0.75-cle_4"
         ],
         [
-            "sym_2-alg_0.5-cle_2.5",
-            "sym_2-alg_2.5-cle_2.5"
+            "sym_0.75-alg_0.25-cle_4",
+            "sym_4-alg_0.25-cle_4"
         ],
         [
-            "sym_0.8-alg_1-cle_1",
-            "sym_0.8-alg_5-cle_1"
-        ],
-        [
-            "sym_0.8-alg_1-cle_0.5",
-            "sym_0.8-alg_2.5-cle_0.5"
-        ],
-        [
-            "sym_0.8-alg_2.5-cle_5",
-            "sym_2-alg_2.5-cle_5"
-        ],
-        [
-            "sym_0.2-alg_1-cle_2.5",
-            "sym_0.2-alg_2.5-cle_2.5"
-        ],
-        [
-            "sym_0.8-alg_2.5-cle_2.5",
-            "sym_0.8-alg_2.5-cle_5"
-        ],
-        [
-            "sym_0-alg_1-cle_2.5",
-            "sym_0-alg_1-cle_5"
-        ],
-        [
-            "sym_0-alg_1-cle_0.5",
-            "sym_2-alg_1-cle_0.5"
-        ],
-        [
-            "sym_0-alg_1-cle_2.5",
-            "sym_0.2-alg_1-cle_2.5"
-        ],
-        [
-            "sym_0.8-alg_2.5-cle_0.5",
-            "sym_0.8-alg_2.5-cle_5"
-        ],
-        [
-            "sym_1.4-alg_0.5-cle_1",
-            "sym_1.4-alg_0.5-cle_2.5"
-        ],
-        [
-            "sym_1.4-alg_5-cle_2.5",
-            "sym_1.4-alg_5-cle_5"
-        ],
-        [
-            "sym_0.2-alg_0.5-cle_1",
-            "sym_0.2-alg_2.5-cle_1"
-        ],
-        [
-            "sym_1.4-alg_0.5-cle_5",
-            "sym_2-alg_0.5-cle_5"
-        ],
-        [
-            "sym_0.8-alg_1-cle_0.5",
-            "sym_1.4-alg_1-cle_0.5"
-        ],
-        [
-            "sym_0.8-alg_2.5-cle_2.5",
-            "sym_0.8-alg_5-cle_2.5"
-        ],
-        [
-            "sym_0.2-alg_2.5-cle_1",
-            "sym_2-alg_2.5-cle_1"
-        ],
-        [
-            "sym_1.4-alg_1-cle_5",
-            "sym_1.4-alg_2.5-cle_5"
-        ],
-        [
-            "sym_0-alg_2.5-cle_0.5",
-            "sym_0-alg_2.5-cle_1"
-        ],
-        [
-            "sym_0.2-alg_1-cle_5",
-            "sym_0.2-alg_5-cle_5"
-        ],
-        [
-            "sym_0.2-alg_0.5-cle_0.5",
-            "sym_0.2-alg_0.5-cle_1"
-        ]
-    ],
-    "5": [
-        [
-            "sym_0.8-alg_5-cle_1",
-            "sym_1.4-alg_5-cle_1"
-        ],
-        [
-            "sym_0.2-alg_0.5-cle_1",
-            "sym_0.2-alg_1-cle_1"
-        ],
-        [
-            "sym_1.4-alg_0.5-cle_2.5",
-            "sym_1.4-alg_5-cle_2.5"
-        ],
-        [
-            "sym_0-alg_1-cle_2.5",
-            "sym_0.8-alg_1-cle_2.5"
-        ],
-        [
-            "sym_0.2-alg_1-cle_0.5",
-            "sym_0.2-alg_1-cle_1"
-        ],
-        [
-            "sym_1.4-alg_1-cle_0.5",
-            "sym_1.4-alg_1-cle_2.5"
-        ],
-        [
-            "sym_0.2-alg_0.5-cle_5",
-            "sym_1.4-alg_0.5-cle_5"
-        ],
-        [
-            "sym_0.2-alg_5-cle_1",
-            "sym_0.2-alg_5-cle_2.5"
-        ],
-        [
-            "sym_0.2-alg_0.5-cle_5",
-            "sym_0.8-alg_0.5-cle_5"
-        ],
-        [
-            "sym_0.8-alg_0.5-cle_5",
-            "sym_2-alg_0.5-cle_5"
-        ],
-        [
-            "sym_0-alg_0.5-cle_2.5",
-            "sym_0.2-alg_0.5-cle_2.5"
-        ],
-        [
-            "sym_1.4-alg_0.5-cle_1",
-            "sym_2-alg_0.5-cle_1"
-        ],
-        [
-            "sym_0.8-alg_2.5-cle_1",
-            "sym_0.8-alg_5-cle_1"
-        ],
-        [
-            "sym_0-alg_0.5-cle_0.5",
-            "sym_0.8-alg_0.5-cle_0.5"
-        ],
-        [
-            "sym_0-alg_2.5-cle_5",
-            "sym_0-alg_5-cle_5"
-        ],
-        [
-            "sym_0.8-alg_1-cle_0.5",
-            "sym_0.8-alg_5-cle_0.5"
-        ],
-        [
-            "sym_0.2-alg_0.5-cle_1",
-            "sym_0.2-alg_0.5-cle_5"
-        ],
-        [
-            "sym_0.2-alg_0.5-cle_0.5",
-            "sym_0.2-alg_0.5-cle_2.5"
-        ],
-        [
-            "sym_1.4-alg_1-cle_0.5",
-            "sym_1.4-alg_5-cle_0.5"
-        ],
-        [
-            "sym_0-alg_5-cle_1",
-            "sym_0-alg_5-cle_2.5"
-        ],
-        [
-            "sym_0.2-alg_0.5-cle_1",
-            "sym_2-alg_0.5-cle_1"
-        ],
-        [
-            "sym_1.4-alg_0.5-cle_0.5",
-            "sym_1.4-alg_0.5-cle_1"
-        ],
-        [
-            "sym_1.4-alg_2.5-cle_1",
-            "sym_1.4-alg_2.5-cle_5"
-        ],
-        [
-            "sym_0.8-alg_1-cle_2.5",
-            "sym_0.8-alg_5-cle_2.5"
-        ],
-        [
-            "sym_0.8-alg_0.5-cle_0.5",
-            "sym_0.8-alg_0.5-cle_5"
-        ],
-        [
-            "sym_0-alg_0.5-cle_0.5",
-            "sym_2-alg_0.5-cle_0.5"
-        ],
-        [
-            "sym_0.2-alg_0.5-cle_2.5",
-            "sym_0.2-alg_5-cle_2.5"
-        ],
-        [
-            "sym_2-alg_5-cle_1",
-            "sym_2-alg_5-cle_2.5"
-        ],
-        [
-            "sym_1.4-alg_2.5-cle_1",
-            "sym_1.4-alg_5-cle_1"
-        ],
-        [
-            "sym_2-alg_0.5-cle_0.5",
-            "sym_2-alg_0.5-cle_2.5"
-        ],
-        [
-            "sym_0.2-alg_1-cle_2.5",
-            "sym_0.2-alg_5-cle_2.5"
-        ],
-        [
-            "sym_1.4-alg_1-cle_2.5",
-            "sym_1.4-alg_1-cle_5"
-        ],
-        [
-            "sym_0.8-alg_0.5-cle_5",
-            "sym_0.8-alg_2.5-cle_5"
-        ],
-        [
-            "sym_0-alg_2.5-cle_1",
-            "sym_0-alg_2.5-cle_5"
-        ],
-        [
-            "sym_0.2-alg_2.5-cle_0.5",
-            "sym_0.8-alg_2.5-cle_0.5"
-        ],
-        [
-            "sym_0.8-alg_2.5-cle_2.5",
-            "sym_1.4-alg_2.5-cle_2.5"
-        ],
-        [
-            "sym_0.2-alg_2.5-cle_2.5",
-            "sym_1.4-alg_2.5-cle_2.5"
-        ],
-        [
-            "sym_0.2-alg_2.5-cle_5",
-            "sym_2-alg_2.5-cle_5"
-        ],
-        [
-            "sym_0-alg_5-cle_1",
-            "sym_0.2-alg_5-cle_1"
-        ],
-        [
-            "sym_1.4-alg_1-cle_0.5",
-            "sym_1.4-alg_2.5-cle_0.5"
-        ],
-        [
-            "sym_1.4-alg_0.5-cle_1",
-            "sym_1.4-alg_5-cle_1"
-        ],
-        [
-            "sym_0.8-alg_2.5-cle_5",
-            "sym_1.4-alg_2.5-cle_5"
-        ],
-        [
-            "sym_1.4-alg_2.5-cle_2.5",
-            "sym_2-alg_2.5-cle_2.5"
-        ],
-        [
-            "sym_1.4-alg_1-cle_5",
-            "sym_2-alg_1-cle_5"
-        ],
-        [
-            "sym_0-alg_5-cle_0.5",
-            "sym_0.8-alg_5-cle_0.5"
-        ],
-        [
-            "sym_0-alg_1-cle_5",
-            "sym_0-alg_5-cle_5"
-        ],
-        [
-            "sym_2-alg_2.5-cle_2.5",
-            "sym_2-alg_5-cle_2.5"
-        ],
-        [
-            "sym_2-alg_2.5-cle_0.5",
-            "sym_2-alg_5-cle_0.5"
-        ],
-        [
-            "sym_1.4-alg_0.5-cle_2.5",
-            "sym_1.4-alg_1-cle_2.5"
-        ],
-        [
-            "sym_0-alg_5-cle_2.5",
-            "sym_1.4-alg_5-cle_2.5"
-        ],
-        [
-            "sym_2-alg_0.5-cle_1",
-            "sym_2-alg_1-cle_1"
-        ],
-        [
-            "sym_2-alg_0.5-cle_5",
-            "sym_2-alg_5-cle_5"
-        ],
-        [
-            "sym_0.2-alg_1-cle_2.5",
-            "sym_2-alg_1-cle_2.5"
+            "sym_0-alg_1-cle_0.75",
+            "sym_0-alg_1-cle_1"
         ],
         [
             "sym_0-alg_1-cle_1",
-            "sym_0.8-alg_1-cle_1"
+            "sym_0.25-alg_1-cle_1"
         ],
         [
-            "sym_0-alg_0.5-cle_0.5",
-            "sym_0-alg_0.5-cle_1"
+            "sym_0.25-alg_0.75-cle_0.75",
+            "sym_0.25-alg_4-cle_0.75"
         ],
         [
-            "sym_1.4-alg_2.5-cle_0.5",
-            "sym_1.4-alg_2.5-cle_5"
+            "sym_0-alg_1-cle_0.25",
+            "sym_0-alg_1-cle_1"
         ],
         [
-            "sym_0.8-alg_0.5-cle_1",
-            "sym_0.8-alg_2.5-cle_1"
+            "sym_0.75-alg_0.75-cle_4",
+            "sym_4-alg_0.75-cle_4"
         ],
         [
-            "sym_0.8-alg_1-cle_0.5",
-            "sym_0.8-alg_1-cle_1"
+            "sym_0.25-alg_4-cle_0.75",
+            "sym_0.25-alg_4-cle_4"
         ],
         [
-            "sym_0.8-alg_0.5-cle_5",
-            "sym_0.8-alg_5-cle_5"
+            "sym_1-alg_0.25-cle_0.25",
+            "sym_1-alg_4-cle_0.25"
         ],
         [
-            "sym_0.2-alg_5-cle_5",
-            "sym_0.8-alg_5-cle_5"
+            "sym_0-alg_0.75-cle_0.75",
+            "sym_0-alg_1-cle_0.75"
         ],
         [
-            "sym_0.8-alg_2.5-cle_1",
-            "sym_0.8-alg_2.5-cle_2.5"
+            "sym_0.25-alg_1-cle_0.25",
+            "sym_0.25-alg_1-cle_1"
         ],
         [
-            "sym_0.2-alg_1-cle_2.5",
-            "sym_0.2-alg_1-cle_5"
+            "sym_4-alg_1-cle_0.25",
+            "sym_4-alg_1-cle_0.75"
         ],
         [
-            "sym_0.2-alg_1-cle_1",
-            "sym_0.2-alg_1-cle_5"
+            "sym_0.25-alg_0.25-cle_0.75",
+            "sym_0.25-alg_0.75-cle_0.75"
         ],
         [
-            "sym_1.4-alg_0.5-cle_5",
-            "sym_1.4-alg_1-cle_5"
+            "sym_0.75-alg_0.75-cle_1",
+            "sym_4-alg_0.75-cle_1"
         ],
         [
-            "sym_0-alg_0.5-cle_0.5",
-            "sym_1.4-alg_0.5-cle_0.5"
+            "sym_4-alg_0.25-cle_1",
+            "sym_4-alg_0.25-cle_4"
         ],
         [
-            "sym_0-alg_2.5-cle_1",
-            "sym_0.2-alg_2.5-cle_1"
-        ]
-    ],
-    "6": [
-        [
-            "sym_2-alg_0.5-cle_2.5",
-            "sym_2-alg_1-cle_2.5"
+            "sym_1-alg_1-cle_0.25",
+            "sym_1-alg_1-cle_0.75"
         ],
         [
-            "sym_1.4-alg_5-cle_0.5",
-            "sym_2-alg_5-cle_0.5"
+            "sym_0.25-alg_0.25-cle_0.75",
+            "sym_0.25-alg_0.25-cle_1"
         ],
         [
-            "sym_0.2-alg_2.5-cle_1",
-            "sym_0.2-alg_2.5-cle_2.5"
+            "sym_0.25-alg_4-cle_0.25",
+            "sym_0.25-alg_4-cle_0.75"
         ],
         [
-            "sym_1.4-alg_1-cle_2.5",
-            "sym_2-alg_1-cle_2.5"
+            "sym_0.75-alg_1-cle_0.75",
+            "sym_4-alg_1-cle_0.75"
+        ],
+        [
+            "sym_0.25-alg_0.25-cle_0.25",
+            "sym_0.75-alg_0.25-cle_0.25"
+        ],
+        [
+            "sym_4-alg_0.75-cle_1",
+            "sym_4-alg_1-cle_1"
+        ],
+        [
+            "sym_0.25-alg_0.25-cle_0.75",
+            "sym_0.25-alg_1-cle_0.75"
+        ],
+        [
+            "sym_0.25-alg_0.25-cle_0.25",
+            "sym_0.25-alg_1-cle_0.25"
+        ],
+        [
+            "sym_0-alg_0.75-cle_1",
+            "sym_0-alg_1-cle_1"
+        ],
+        [
+            "sym_0.75-alg_0.25-cle_4",
+            "sym_0.75-alg_4-cle_4"
+        ],
+        [
+            "sym_0.75-alg_0.25-cle_0.25",
+            "sym_4-alg_0.25-cle_0.25"
+        ],
+        [
+            "sym_0-alg_0.25-cle_1",
+            "sym_0.25-alg_0.25-cle_1"
+        ],
+        [
+            "sym_0-alg_1-cle_0.25",
+            "sym_1-alg_1-cle_0.25"
+        ],
+        [
+            "sym_0.25-alg_1-cle_1",
+            "sym_0.75-alg_1-cle_1"
+        ],
+        [
+            "sym_1-alg_0.25-cle_0.75",
+            "sym_1-alg_0.25-cle_1"
+        ],
+        [
+            "sym_0.75-alg_0.25-cle_1",
+            "sym_0.75-alg_0.25-cle_4"
+        ],
+        [
+            "sym_0.75-alg_4-cle_0.25",
+            "sym_1-alg_4-cle_0.25"
+        ],
+        [
+            "sym_0.75-alg_0.25-cle_0.25",
+            "sym_0.75-alg_0.75-cle_0.25"
+        ],
+        [
+            "sym_0-alg_0.25-cle_0.75",
+            "sym_0-alg_0.75-cle_0.75"
+        ],
+        [
+            "sym_1-alg_0.75-cle_0.75",
+            "sym_1-alg_4-cle_0.75"
+        ],
+        [
+            "sym_0.25-alg_0.25-cle_0.75",
+            "sym_1-alg_0.25-cle_0.75"
+        ],
+        [
+            "sym_0.75-alg_0.25-cle_0.75",
+            "sym_4-alg_0.25-cle_0.75"
+        ],
+        [
+            "sym_0.25-alg_0.75-cle_0.75",
+            "sym_0.25-alg_0.75-cle_1"
+        ],
+        [
+            "sym_0-alg_0.25-cle_0.75",
+            "sym_0-alg_0.25-cle_1"
+        ],
+        [
+            "sym_0.75-alg_0.25-cle_1",
+            "sym_0.75-alg_4-cle_1"
+        ],
+        [
+            "sym_0.25-alg_0.75-cle_0.75",
+            "sym_0.75-alg_0.75-cle_0.75"
+        ],
+        [
+            "sym_4-alg_1-cle_0.25",
+            "sym_4-alg_4-cle_0.25"
+        ],
+        [
+            "sym_0.25-alg_4-cle_0.75",
+            "sym_0.25-alg_4-cle_1"
+        ],
+        [
+            "sym_0.25-alg_0.75-cle_1",
+            "sym_4-alg_0.75-cle_1"
+        ],
+        [
+            "sym_0-alg_4-cle_0.25",
+            "sym_0-alg_4-cle_1"
+        ],
+        [
+            "sym_0.25-alg_0.75-cle_1",
+            "sym_0.75-alg_0.75-cle_1"
+        ],
+        [
+            "sym_1-alg_0.25-cle_4",
+            "sym_1-alg_4-cle_4"
+        ],
+        [
+            "sym_0-alg_0.25-cle_4",
+            "sym_1-alg_0.25-cle_4"
+        ],
+        [
+            "sym_0.25-alg_0.75-cle_1",
+            "sym_0.25-alg_0.75-cle_4"
+        ],
+        [
+            "sym_0.25-alg_0.75-cle_4",
+            "sym_0.25-alg_4-cle_4"
+        ],
+        [
+            "sym_0-alg_0.75-cle_1",
+            "sym_0-alg_0.75-cle_4"
+        ],
+        [
+            "sym_0-alg_0.75-cle_4",
+            "sym_0-alg_4-cle_4"
+        ],
+        [
+            "sym_0-alg_0.75-cle_0.25",
+            "sym_0-alg_4-cle_0.25"
+        ],
+        [
+            "sym_0-alg_1-cle_0.75",
+            "sym_0.25-alg_1-cle_0.75"
+        ],
+        [
+            "sym_4-alg_0.75-cle_4",
+            "sym_4-alg_4-cle_4"
+        ],
+        [
+            "sym_0-alg_0.25-cle_1",
+            "sym_1-alg_0.25-cle_1"
+        ],
+        [
+            "sym_0.75-alg_1-cle_4",
+            "sym_0.75-alg_4-cle_4"
+        ],
+        [
+            "sym_0.75-alg_0.25-cle_1",
+            "sym_0.75-alg_0.75-cle_1"
+        ],
+        [
+            "sym_1-alg_0.75-cle_1",
+            "sym_1-alg_0.75-cle_4"
+        ],
+        [
+            "sym_0.75-alg_4-cle_1",
+            "sym_0.75-alg_4-cle_4"
         ]
     ]
 }
@@ -1619,13 +1615,13 @@ let sumTrialsToUse;
 let trials;
 let trialOrder;
 let numTrials;
+let startTime;
+let results;
 
 
 let currentTrialIndex = -1;
-const pageDelay = 0;
-const trialDelay = 0;
-let startTime;
-let results;
+const pageDelay = 5200;
+const trialDelay = 1150;
 
 setTimeout(() => $("#continueButton").prop("disabled", false), pageDelay);
 
@@ -1670,7 +1666,7 @@ function trialStartButtonPressed() {
     results = []
     startTime = new Date();
     trials =  allTrialSets[sumTrialsToUse];
-    console.log(trials)
+    trials.push(["MUSTNOTPICK", "MUSTPICKCASE"])
     trialOrder = [...trials.keys()];
     shuffleArray(trialOrder);
     numTrials = trials.length;
@@ -1738,6 +1734,7 @@ function verifyAndGatherData() {
             experience: $("select[name=experience]").find(":selected").text(),
             vision: $("select[name=vision]").find(":selected").text(),
             comments: $("textarea[name=comments]").val(),
+            occupation: $("select[name=background]").find(":selected").text(),
             duration: 0.001 * (new Date() - startTime),
             subTrial:parseInt(sumTrialsToUse, 10),
             trialResults: results
